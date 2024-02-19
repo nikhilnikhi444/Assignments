@@ -1,0 +1,108 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 25px;
+}
+#head{
+    text-align: center;
+    margin-top: 50px;
+    font-family: 'Raleway', sans-serif;
+}
+
+#container{
+    margin-top: 20px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+#contents{
+     width: 320px;
+     height: 220px;
+     background-color: #f8f9fb;
+     border: 1px  #EBEDF0 solid;
+     border-radius: 6px;
+     
+   
+     
+}
+#form{
+   margin-top: 20px;
+   margin-left: 20px;
+}
+#form2{
+    margin-top: 20px;
+    margin-left: 20px;
+    
+   
+}
+.link{
+    margin-left: 100px;
+    
+}
+#form2 a{
+    text-decoration: none;
+    color:royalblue;
+}
+#email{
+   width: 260px;
+   height: 20px;
+   margin-top: 5px;
+   border-radius: 5px;
+   padding: 5px;
+   border: 1px #EBEDF0 solid;
+}
+
+
+#pswd{
+    width: 260px;
+   height: 20px;
+   margin-top: 5px;
+   border-radius: 5px;
+   padding: 5px;
+   border: 1px #EBEDF0 solid;
+   
+}
+#button{
+    width: 273px;
+    height: 35px;
+    margin-top: 20px;
+    border-radius: 5px;
+    padding: 5px;
+    background-color:rgb(4, 144, 4);
+    color: white;
+    font-weight: 600;
+    border-color: white;
+}
+#create{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+#new{
+     margin-top: 5px;
+     width: 320px;
+     height: 80px;
+     background-color:white;
+     border: 2px  #EBEDF0 solid;
+     border-radius: 6px;
+     margin-left: 608px;
+     text-align: center;
+}     
+#new a{
+
+    color:royalblue;
+    text-decoration: none;
+}
+#new div{
+    margin-top: 20px;
+}
+#foot{
+    margin-top: 100px;
+    text-align: center;
+    font-size: smaller;
+}
+
